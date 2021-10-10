@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "Price": 1000,
+        "image": "/images/fb1af4ff-d983-42b0-bfdb-3e0edda353b0.jpg",
+        "discription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem ducimus cumque, assumenda delectus molestias impedit doloribus vero laborum consequuntur ex unde, ipsa in aperiam, quod cum recusandae at tenetur maiores?"
+    },
+    {
+        "id": 2,
+        "name": "Air Pod",
+        "Price": 2000,
+        "image": "/images/AirPods-Pro.jpg",
+        "discription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem ducimus cumque, assumenda delectus molestias impedit doloribus vero laborum consequuntur ex unde, ipsa in aperiam, quod cum recusandae at tenetur maiores?"
+    },
+    {
+        "id": 3,
+        "name": "Cold Thing",
+        "Price": 100,
+        "image": "/images/jouce.jpg",
+        "discription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem ducimus cumque, assumenda delectus molestias impedit doloribus vero laborum consequuntur ex unde, ipsa in aperiam, quod cum recusandae at tenetur maiores?"
+    },
+    {
+        "id": 4,
+        "name": "Wireless Head Phone",
+        "Price": 1490,
+        "image": "/images/wireless.jpg",
+        "discription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem ducimus cumque, assumenda delectus molestias impedit doloribus vero laborum consequuntur ex unde, ipsa in aperiam, quod cum recusandae at tenetur maiores?"
+    }
+]
